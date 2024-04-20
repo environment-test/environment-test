@@ -16,6 +16,27 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=environment-test&" alt="environment-test" /></p>
 
+<section>
+  <h2>Github Statistics</h2>
+
+  <!-- LIGHT MODE -->
+  <a href="https://github.com/environment-test#gh-light-mode-only">
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=environment-test&card_width=440&theme=light&title_color=131820&icon_color=131820" />
+  </a>
+  
+  <a href="https://github.com/environment-test#gh-light-mode-only">
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=environment-test&layout=donut&theme=light&title_color=131820" />
+  </a>
+  
+  <!-- DARK MODE -->
+  <a href="https://github.com/environment-test#gh-dark-mode-only">
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=environment-test&card_width=440&theme=github_dark&hide_border=true&bg_color=11151C" />
+  </a>
+  
+  <a href="https://github.com/environment-test#gh-dark-mode-only">
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=environment-test&layout=donut&theme=github_dark&hide_border=true&bg_color=11151C" />
+  </a>
+</section>
 
 
 <!---
